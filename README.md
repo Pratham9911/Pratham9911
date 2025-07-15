@@ -63,13 +63,7 @@
 
 ---
 
-###  LeetCode Stats
 
-<p align="center">
-  <img src="https://leetcard.jacoblin.cool/Pratham9911?theme=dark&font=Source%20Code%20Pro&ext=contest">
-</p>
-
----
 
 ### 🔗 Featured Projects
 
