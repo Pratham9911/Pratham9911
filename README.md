@@ -54,7 +54,7 @@
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Pratham9911&show_icons=true&theme=tokyonight&count_private=true" />
@@ -64,7 +64,7 @@
 
 ---
 
-### 🧠 LeetCode Stats
+###  LeetCode Stats
 
 <p align="center">
   <img src="https://leetcard.jacoblin.cool/Pratham9911?theme=dark&font=Source%20Code%20Pro&ext=contest">
@@ -94,7 +94,7 @@
 ---
 
 ### 🧩 Fun Fact
-> “The best way to predict the future is to build it.”
+> **“The best way to predict the future is to build it.”**
 
 ---
 
@@ -102,5 +102,6 @@
 
 ### 🐍 GitHub Contribution Snake
 
-![snake gif](https://github.com/Pratham9911/Pratham9911/blob/output/github-contribution-grid-snake.svg)
+![snake gif](https://github.com/Pratham9911/Pratham9911/blob/output/github-contribution-grid-snake-dark.svg?palette=github-dark)
+
 
