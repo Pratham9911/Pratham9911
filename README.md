@@ -5,14 +5,14 @@
 
 ### 🧑‍💻 About Me
 
-- 🎓 B.Tech Computer Engineering @ IIIT (2nd Year)
+- 🎓 B.Tech Computer Engineering @ I2IT (3rd Year)
 - 🚀 Currently Building:
-  - [InfinityAR](https://infinityar.vercel.app/): AR Solar System + ISRO Rocket Explorer
-  - AI-powered Alumni Connection App (under development)
+-   AI-powered Alumni Connection App (under development)
+
 - 🏆 Winner of **Algo Master** contest
 - 👾 Passionate about AI, AR, Space, and Education
-- 🌱 Learning: Unity • ML • NLP • Android Dev
-- 📫 Reach me at: your.email@example.com
+- 🌱 Learning: ML • NLP 
+- 📫 Reach me at: prathamtiwari0123@gmail.com
 
 ---
 
