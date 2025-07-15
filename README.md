@@ -83,13 +83,14 @@
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="www.linkedin.com/in/pratham-tiwari-29a82b315" target="_blank">
+  <a href="https://www.linkedin.com/in/pratham-tiwari-29a82b315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:prathamtiwari0123@gmail.com">
+  <a href="mailto:prathamtiwari0123@gmail.com" target="_blank">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
+
 
 ---
 
