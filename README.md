@@ -76,17 +76,17 @@
 
 - 🎯 [InfinityAR](https://infinityar.vercel.app/) – Educational AR app for learning space & rockets  
 - 🤖 AI-powered Alumni App *(In Development)* – Connect, mentor, and track user goals using ML  
-- 📊 Bookkeeping Dashboard *(LocalStorage + Next.js)* – Expense tracking + invoice management  
+ 
 
 ---
 
 ### 📫 Connect With Me
 
 <p align="left">
-  <a href="https://linkedin.com/in/yourlinkedin" target="_blank">
+  <a href="www.linkedin.com/in/pratham-tiwari-29a82b315" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="mailto:your.email@example.com">
+  <a href="mailto:prathamtiwari0123@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
   </a>
 </p>
