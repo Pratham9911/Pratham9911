@@ -1,7 +1,18 @@
 <h1 align="center">Hi 👋, I'm Pratham Tiwari</h1>
 <h3 align="center">🚀 Building AR, AI & Full-Stack Solutions | I2IT Pune | Explorer of Tech & Universe</h3>
 
+<p align="center">
+  <a href="https://www.linkedin.com/in/pratham-tiwari-29a82b315" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  <a href="mailto:prathamtiwari0123@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+</p>
+
 ---
+
+
 
 ### 🧑‍💻 About Me
 
@@ -63,7 +74,13 @@
 
 ---
 
+###  LeetCode Stats
 
+<p align="center">
+  <img src="https://leetcard.jacoblin.cool/Pratham9911?theme=dark&font=Source%20Code%20Pro&ext=contest">
+</p>
+
+---
 
 ### 🔗 Featured Projects
 
@@ -71,26 +88,11 @@
 - 🤖 AI-powered Alumni App *(In Development)* – Connect, mentor, and track user goals using ML  
  
 
----
-
-### 📫 Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/pratham-tiwari-29a82b315" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="mailto:prathamtiwari0123@gmail.com" target="_blank">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-</p>
-
 
 ---
 
 ### 🧩 Fun Fact
 > **“The best way to predict the future is to build it.”**
-
----
 
 ---
 
