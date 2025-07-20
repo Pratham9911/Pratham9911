@@ -96,7 +96,7 @@
 
 ---
 
-### 🐍 GitHub Contribution Snake
+### 🐍 Contribution Snake
 
 ![snake gif](https://github.com/Pratham9911/Pratham9911/blob/output/github-contribution-grid-snake-dark.svg?palette=dracula)
 
