@@ -1,13 +1,15 @@
 <a href="#"><img align="left" alt="React" width="100%" style="padding:10px;" src="https://raw.githubusercontent.com/HighAmbition211/HighAmbition211/auxiliary/others/Welcome.svg" /></a>
 
-<h1 align="center">✨ Pratham Tiwari ✨</h1>
+<h1 align="center"> Pratham Tiwari </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
     <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=+AI+%26+AR+Enthusiast;🌌+Exploring+Space+%26+Tech;🎓+B.Tech+CSE+%40+I2IT+Pune" alt="Typing SVG" />
   </a>
 </p>
 
-
+<h2 align="center" style="color:#ffda75;">
+  What infinity is to mathematics, and the halting problem is to science, is what God is to religion
+</h2>
 
 <h3>💫 About Me</h3>
 
