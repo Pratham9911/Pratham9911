@@ -8,7 +8,7 @@
 </p>
 
 <h2 align="center" style="color:#ffda75;">
-  What infinity is to mathematics, and the halting problem is to science, is what God is to religion
+  What infinity is to mathematics, what halting problem is to science, is what God is to religion
 </h2>
 
 <h3>💫 About Me</h3>
