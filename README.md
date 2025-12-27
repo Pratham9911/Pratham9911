@@ -115,8 +115,13 @@
 
 ### 🔗 Featured Projects
 
+- 🤖 **[RAG-Based AI Portfolio](https://pratham-tiwari.vercel.app)** – Conversational portfolio chatbot that understands user intent, answers honestly about my background, adapts responses for recruiters/technical audiences, and handles unclear or unknown queries gracefully.  
+
+
 - 🎯 [InfinityAR](https://infinityar.vercel.app/) – Educational AR app for learning space & rockets  
+
 - 🤖 AI-powered Alumni App *(In Development)* – Connect, mentor, and track user goals using ML  
+ 
  
 
 
