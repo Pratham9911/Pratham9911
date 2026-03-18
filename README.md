@@ -3,7 +3,7 @@
 <h1 align="center"> Pratham Tiwari </h1>
 <p align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=+AI+%26+AR+Enthusiast;🌌+Exploring+Space+%26+Tech;🎓+B.Tech+CSE+%40+I2IT+Pune" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=700&size=22&pause=1000&color=00C2FF&center=true&vCenter=true&width=600&lines=+DEVELOPING AI SYSTEMS;🌌+Exploring+Space+%26+Tech;🎓+B.Tech+CSE+%40+I2IT+Pune" alt="Typing SVG" />
   </a>
 </p>
 
@@ -13,13 +13,11 @@
 
 <h3>💫 About Me</h3>
 
-- 🎓 **B.Tech Computer Engineering (3rd Year)** @ *I²IT Pune*  
-- 🔭 **Currently Building:**  
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=FF5733&duration=2500&center=true&vCenter=true&width=300&lines=AI-powered+Alumni+App;InfinityAR+" alt="Typing Animation"/>  
+- 🎓 **B.Tech Computer Engineering (3rd Year)** @ *I²IT Pune*   
 - 🏆 **Winner of**: <b>Algo Master</b> Contest 🥇  
-- 👾 **Passionate About:** AI • AR • Space • Education • Open Innovation  
+- 👾 **Passionate About:** AI • Space • Education • Open Innovation  
 - 🌱 **Currently Learning:**  
-   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=33FF57&duration=2500&center=true&vCenter=true&width=300&lines=Machine+Learning;NLP;DevOps" alt="Typing Animation"/>  
+   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&color=33FF57&duration=2500&center=true&vCenter=true&width=300&lines=Machine+Learning;RAGS;AI AGENTS" alt="Typing Animation"/>  
 - 📫 **Reach Me At:** [prathamtiwari0123@gmail.com](mailto:prathamtiwari0123@gmail.com)  
 
 ---
