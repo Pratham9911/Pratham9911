@@ -116,7 +116,7 @@
 
 - 🎯 [InfinityAR](https://infinityar.vercel.app/) – Educational AR app for learning space & rockets  
 
-- 🤖 AI-powered Alumni App *(In Development)* – Connect, mentor, and track user goals using ML  
+- 🤖 Cortex *(In Development)* - Launching on Oct 15...
  
  
 
