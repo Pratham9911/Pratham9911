@@ -13,7 +13,7 @@
 
 <h3>💫 About Me</h3>
 
-- 🎓 **B.Tech Computer Engineering (3rd Year)** @ *I²IT Pune*  
+- 🎓 **B.Tech Computer Engineering (final Year)** @ *I²IT Pune*  
 - 🏆 **Winner of**: <b>Algo Master</b> Contest 🥇  
 - 👾 **Passionate About:** AI • AR • Space • Education • Open Innovation  
 - 🌱 **Currently Learning:**  
